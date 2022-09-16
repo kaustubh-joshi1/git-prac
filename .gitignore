@@ -1,0 +1,7 @@
+#I am git ignore
+
+index.html
+
+*.css
+
+node_modules
